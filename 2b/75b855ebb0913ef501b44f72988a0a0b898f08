@@ -1,0 +1,19 @@
+biome.json
+  s_27c62cd572d2ad::t_bed7bfdbd1cf0c 39,41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "2b75b855ebb0913ef501b44f72988a0a0b898f08",
+  "prompts": {},
+  "sessions": {
+    "s_27c62cd572d2ad": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a017a6-39cd-7ee3-86a7-d9dfa7665917",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "ztygod <2739022972@qq.com>"
+    }
+  }
+}
