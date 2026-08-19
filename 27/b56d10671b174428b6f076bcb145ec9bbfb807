@@ -1,0 +1,24 @@
+CONTRIBUTING.md
+  s_27c62cd572d2ad::t_9727c4400415a0 19,23-25
+  s_27c62cd572d2ad::t_55b823cb3d16bd 26
+package.json
+  s_27c62cd572d2ad::t_9727c4400415a0 22
+README.md
+  s_27c62cd572d2ad::t_9727c4400415a0 42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "27b56d10671b174428b6f076bcb145ec9bbfb807",
+  "prompts": {},
+  "sessions": {
+    "s_27c62cd572d2ad": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a017a6-39cd-7ee3-86a7-d9dfa7665917",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "ztygod <2739022972@qq.com>"
+    }
+  }
+}
