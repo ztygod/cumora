@@ -1,0 +1,23 @@
+src/desktop/Onboarding.tsx
+  s_70aa112c6445cb::t_26bf30876ce940 91
+  s_70aa112c6445cb::t_18a3eb262e2bf7 88-90,92-103,105
+src/desktop/MeView.tsx
+  s_70aa112c6445cb::t_18a3eb262e2bf7 1192-1194,1196-1207,1209
+  s_70aa112c6445cb::t_26bf30876ce940 1195
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "d1078fb2474f3f89d948bb365b208a2a81a8f3d2",
+  "prompts": {},
+  "sessions": {
+    "s_70aa112c6445cb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0747c-8102-7b32-8a14-58a14699a6f1",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "ztygod <2739022972@qq.com>"
+    }
+  }
+}
