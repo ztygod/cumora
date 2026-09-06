@@ -1,0 +1,26 @@
+server/src/agents/computer/engine.ts
+  s_501706f27800c7::t_e4aa000499fb73 611-619,1459
+  s_501706f27800c7::t_0f53854b7fa8d6 1312,1317,1752,2015-2016,2164,2192,2221
+  s_501706f27800c7::t_3287b5de58aade 2386-2388
+server/src/__tests__/agents-computer-engine-hot-switch.test.ts
+  s_501706f27800c7::t_de59fcbc3a5363 1-63
+server/src/__tests__/agents-computer-engine.test.ts
+  s_501706f27800c7::t_f7114cddf9a5e9 590-629,697
+  s_501706f27800c7::t_003795f5f2bf38 360-392
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "ee51930bfda55eff391254a6ac006bfbb63f7427",
+  "prompts": {},
+  "sessions": {
+    "s_501706f27800c7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a07173-0836-7222-a1d8-fb6a245cff24",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "ztygod <2739022972@qq.com>"
+    }
+  }
+}
