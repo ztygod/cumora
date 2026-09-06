@@ -1,0 +1,49 @@
+server/src/agents/computer/cli-version.ts
+  s_501706f27800c7::t_dda723ca88d4d8 403-419
+server/src/agents/computer/session-recovery.ts
+  s_501706f27800c7::t_4ca604727f88b8 1-25
+server/src/agents/computer/engine.ts
+  s_501706f27800c7::t_44553f219d24be 1406-1409
+  s_501706f27800c7::t_17bb006efe9e2f 1255-1258,1283,1412-1413,1418
+  s_501706f27800c7::t_dda723ca88d4d8 34,458
+  s_501706f27800c7::t_968094ffb88419 579-598,1362,1405,1410-1411,1416-1417,1419-1421
+  s_501706f27800c7::t_be9bd401ce304a 27,390-421,455-457,459-467,473,475-476,478-485,487,489
+  s_501706f27800c7::t_b9a7597417e871 540-578,599-610,613-614,616
+server/src/agents/computer/daemon.ts
+  s_501706f27800c7::t_0557d4099b6000 927-967,972-976,3306,3383
+  s_501706f27800c7::t_4ca604727f88b8 53,1906-1911
+  s_501706f27800c7::t_1f3abc76e7611c 2650,3033
+  s_501706f27800c7::t_db05898b444256 2646,2651
+  s_501706f27800c7::t_e141b3514b2027 968-971
+  s_501706f27800c7::t_b49b00c55b45b1 3029,3037
+  s_501706f27800c7::t_4964d804ba9f87 51,1848-1863,1866-1867,1869-1905,1912-1913,2088,2097
+  s_501706f27800c7::t_370d60cd64c01f 1864-1865,1868
+  s_501706f27800c7::t_d5f0c226e41b93 3384-3392,3395,3414,3419
+server/src/__tests__/agents-computer-session-recovery.test.ts
+  s_501706f27800c7::t_24898eddef264a 1-71
+server/src/__tests__/agents-computer-engine-version.test.ts
+  s_501706f27800c7::t_acfc53950b0857 13,24,57-68,70-73
+  s_501706f27800c7::t_c53c648b5a5029 69
+  s_501706f27800c7::t_8717c1d9f54bbe 74-76
+  s_501706f27800c7::t_3a918214681d7e 77-78
+server/src/__tests__/agents-computer-engine-inventory.test.ts
+  s_501706f27800c7::t_24898eddef264a 8,44-78
+server/src/__tests__/agents-computer-engine-failure.test.ts
+  s_501706f27800c7::t_24898eddef264a 1-40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "6b7a37a7e9e59b3e14d273ca07862cb13e1e642f",
+  "prompts": {},
+  "sessions": {
+    "s_501706f27800c7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a07173-0836-7222-a1d8-fb6a245cff24",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "ztygod <2739022972@qq.com>"
+    }
+  }
+}
