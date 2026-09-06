@@ -1,0 +1,164 @@
+.github/wif-setup.md
+  h_26f16717d2307e 5-6,11-17,76-80
+.github/workflows/build.yml
+  h_26f16717d2307e 10-11
+.github/workflows/deploy.yml
+  h_26f16717d2307e 23-35,133,136-142,152,193-197
+.github/workflows/publish.yml
+  h_26f16717d2307e 6-9
+.github/workflows/release.yml
+  h_26f16717d2307e 7-8
+.gitignore
+  h_26f16717d2307e 21
+CONTRIBUTING.md
+  h_26f16717d2307e 12-15,43-61,71-76,78,91-94
+README.md
+  h_26f16717d2307e 43,74,79,82-87,90-91,105-106
+SECURITY.md
+  h_26f16717d2307e 81-84
+agent-cli/README.md
+  h_26f16717d2307e 16,22,25-27
+agent-cli/package.json
+  h_26f16717d2307e 3
+benchmarks/README.md
+  h_26f16717d2307e 88-93
+docs/BYOA.md
+  h_26f16717d2307e 275-289,315-351,356,370-371,440-441,544,547-566
+docs/COORDINATION.md
+  h_26f16717d2307e 71-79,805-806
+docs/MOBILE_IOS.md
+  h_26f16717d2307e 5-7,38-40,53-56,102,115-124,185-188
+docs/PUSH_NOTIFICATIONS.md
+  h_26f16717d2307e 19,27,85-90,158
+docs/RELEASE.md
+  h_26f16717d2307e 26-30,47-48,64-107,183-188,193-217,242-244
+docs/email.md
+  h_26f16717d2307e 5-10,102-106
+package-lock.json
+  h_26f16717d2307e 3,9
+package.json
+  h_26f16717d2307e 4
+server/k8s/generic-device-plugin.note
+  h_26f16717d2307e 31
+server/k8s/gke.md
+  h_26f16717d2307e 9-12,15-19,31-32,34,39,42-44,48-50,53-54,58-59,62-64,94-96,166-171,194-195,199-207,231-248
+server/src/__integration__/agent-scanner.test.ts
+  h_26f16717d2307e 14,27,31,93,122-202
+server/src/__integration__/conversations.test.ts
+  h_26f16717d2307e 90-206
+server/src/__integration__/document-image-cleanup.test.ts
+  h_26f16717d2307e 1-261
+server/src/__integration__/inbound.test.ts
+  h_26f16717d2307e 17,337-471
+server/src/__integration__/migration-0002-repair.test.ts
+  h_26f16717d2307e 1-155
+server/src/__integration__/realtime-outbox.test.ts
+  h_26f16717d2307e 6-7,159-224
+server/src/__integration__/schema-migrations.test.ts
+  h_26f16717d2307e 4-9,76-110
+server/src/__integration__/search-trigram.test.ts
+  h_26f16717d2307e 1-144
+server/src/__integration__/workspace-deletion-orphans.test.ts
+  h_26f16717d2307e 1-244
+server/src/__tests__/agent-computer-pairing-token.test.ts
+  h_26f16717d2307e 152-177
+server/src/__tests__/agents-computer-engine.test.ts
+  h_26f16717d2307e 13,34-35,294-295,325-412
+server/src/__tests__/agents-computer-model-catalog.test.ts
+  h_26f16717d2307e 57-58,84-91,101-102,108-123
+server/src/__tests__/agents-scanner-budget-retry.test.ts
+  h_26f16717d2307e 1-105
+server/src/__tests__/agents-scanner-cache-bound.test.ts
+  h_26f16717d2307e 1-60
+server/src/__tests__/claude-turn-preferences.test.ts
+  h_26f16717d2307e 1-52
+server/src/__tests__/document-image-cleanup.test.ts
+  h_26f16717d2307e 1-82
+server/src/__tests__/migration-0002-precheck.test.ts
+  h_26f16717d2307e 7-12,75-114
+server/src/__tests__/migration-transaction-atomicity.test.ts
+  h_26f16717d2307e 1-155
+server/src/__tests__/schema-migrations.test.ts
+  h_26f16717d2307e 19-20,42-49
+server/src/agents/cli.ts
+  h_26f16717d2307e 6345-6352,6449-6450,6452-6460
+server/src/agents/computer/claude-user-settings.ts
+  h_26f16717d2307e 4-6,22-24,27-79,109-110,118-119,141,162-163,165-166
+server/src/agents/computer/daemon.ts
+  h_26f16717d2307e 2324
+server/src/agents/computer/engine.ts
+  h_26f16717d2307e 33,1508,1580,1588-1592,1599-1602,1755-1756
+server/src/agents/computer/model-catalog.ts
+  h_26f16717d2307e 101-105,107,109,113-119,121,123,219,221,225,227-228,239-254,260-267,368-369,399-401
+server/src/agents/computer/registry.ts
+  h_26f16717d2307e 66
+server/src/agents/idle.ts
+  h_26f16717d2307e 33
+server/src/agents/scanner.ts
+  h_26f16717d2307e 1,3,23-38,40-118,120-123,128-131,134-148,292-296,298,307-316,318-338,346-368,372-381
+server/src/agents/scheduler.ts
+  h_26f16717d2307e 216,337,342,386,392,465,469,480,493,522,536,539,541
+server/src/api/inbound-email.ts
+  h_26f16717d2307e 268,271,276-285,295-323,325-331,333-335,338,341,424-425,427-437,443,480-494,496,499,501-513,517,524-525,528,531
+server/src/api/router.ts
+  h_26f16717d2307e 11,44,1257,1813-1820,1837-1842,1845,3274-3285,3302-3303,3307-3310,3323-3357,3370-3371,3374-3376,3752-3757,3764-3767,4995-5078,5220-5223,7063,7065,7067-7069,7072-7075
+server/src/db/migrate.ts
+  h_26f16717d2307e 28-39,2063,2065,2150-2153,2162-2163,2363,2368-2490,2492-2509,2521-2544,2549,2555,2561,2567,2570-2583,2586-2616,2674,2757-2790,2795-2799,2832,2853-2854
+server/src/db/migrations/0005-search-trigram-index.ts
+  h_26f16717d2307e 1-46
+server/src/db/migrations/0006-email-messages-company-smtp-id.ts
+  h_26f16717d2307e 1-29
+server/src/db/migrations/manifest.ts
+  h_26f16717d2307e 40-49,54-55
+server/src/documents/rooms.ts
+  h_26f16717d2307e 520-616,835-841,848,932-933,952
+server/src/index.ts
+  h_26f16717d2307e 258-261
+server/src/migrate-bin.ts
+  h_26f16717d2307e 18-19
+server/src/workspace-cleanup.ts
+  h_26f16717d2307e 11,78-81,84-85,87,89,97,99,107-120,126,133,138,140-147
+server/src/ws.ts
+  h_26f16717d2307e 17,526-531,616-633,635
+src/App.tsx
+  h_26f16717d2307e 138-142
+src/desktop/ConversationsPane.tsx
+  h_26f16717d2307e 652-657,674
+src/desktop/MeView.tsx
+  h_26f16717d2307e 1192-1207,1209
+src/desktop/Onboarding.tsx
+  h_26f16717d2307e 88-103,105
+src/lib/conversationRow.ts
+  h_26f16717d2307e 1-58
+src/lib/create-idempotency.ts
+  h_26f16717d2307e 1-8,17-22,25,27-28,30-34,36-38,40,42-54,58-67
+src/stores/boards.ts
+  h_26f16717d2307e 189-199
+src/stores/calendar.ts
+  h_26f16717d2307e 95-103
+src/stores/conversations.ts
+  h_26f16717d2307e 2,4,15-31,69-78,81-137,139-146,161,200,228-262,284-287,289-295,297-300,302-304
+src/stores/documents.ts
+  h_26f16717d2307e 46-54
+tests/conversation-row.test.ts
+  h_26f16717d2307e 1-134
+tests/create-idempotency.test.ts
+  h_26f16717d2307e 1-75
+workers/email-gate/README.md
+  h_26f16717d2307e 13,15
+workers/email-gate/src/index.test.ts
+  h_26f16717d2307e 15,136-231
+workers/email-gate/src/index.ts
+  h_26f16717d2307e 8-9,230-232,235,239-246,248-249
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "0b50006d87b186dee8103e95657964eead4a271c",
+  "prompts": {},
+  "humans": {
+    "h_26f16717d2307e": {
+      "author": "ztygod <2739022972@qq.com>"
+    }
+  }
+}
