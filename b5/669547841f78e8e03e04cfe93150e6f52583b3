@@ -1,0 +1,27 @@
+server/src/agents/computer/session-store.ts
+  s_501706f27800c7::t_7091bc76c52452 7-10
+  s_501706f27800c7::t_938d94a2dec06b 1-6,11-25,27-96
+  s_501706f27800c7::t_e656457b1bda41 26
+server/src/__tests__/agents-computer-session-store.test.ts
+  s_501706f27800c7::t_7091bc76c52452 1-137
+server/src/agents/computer/daemon.ts
+  s_501706f27800c7::t_7091bc76c52452 52,1736-1737,1802
+  s_501706f27800c7::t_938d94a2dec06b 86,1585-1586,1669,1679,1733,1735,1740-1745,1798-1801,1803,1862,1980,2529,2537,2927
+  s_501706f27800c7::t_0b03e8bfd5013f 1738-1739
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "b5669547841f78e8e03e04cfe93150e6f52583b3",
+  "prompts": {},
+  "sessions": {
+    "s_501706f27800c7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a07173-0836-7222-a1d8-fb6a245cff24",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
